@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Popup" max_length="40" name="x_60765_flow_popup_popup" type="collection">
+        <element label="Flow" max_length="32" name="flow" reference="x_60765_flow_popup_popup_flow" type="reference"/>
+        <element display="true" label="Name" max_length="128" name="name" type="string"/>
+        <element label="Start condition" max_length="4000" name="start_condition" type="conditions"/>
+        <element label="Stateflow" max_length="32" name="stateflow" reference="sf_state_flow" type="reference"/>
+        <element default="javascript:current.flow.table" label="table" max_length="80" name="table" read_only="true" type="table_name"/>
+        <index name="index">
+            <element name="stateflow"/>
+        </index>
+        <index name="index2">
+            <element name="flow"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="table" label="Table" language="en" table="x_60765_flow_popup_popup">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <help/>
+            <hint/>
+            <label>Table</label>
+            <language>en</language>
+            <name>x_60765_flow_popup_popup</name>
+            <plural>Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-05 10:09:57</sys_created_on>
+            <sys_id>81f2cbee4f03130030fbff6f9310c7e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table</sys_name>
+            <sys_package display_value="Flow popups" source="x_60765_flow_popup">00a4b2e24f03130030fbff6f9310c71f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flow popups">00a4b2e24f03130030fbff6f9310c71f</sys_scope>
+            <sys_update_name>sys_documentation_x_60765_flow_popup_popup_table_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-05 10:09:57</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

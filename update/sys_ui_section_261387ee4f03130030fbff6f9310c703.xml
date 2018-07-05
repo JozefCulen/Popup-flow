@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Data" section_id="261387ee4f03130030fbff6f9310c703" sys_domain="global" table="x_60765_flow_popup_popup" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>stateflow</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-05 10:10:46</sys_created_on>
+            <sys_id>9523cbee4f03130030fbff6f9310c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data" display_value="Data" name="x_60765_flow_popup_popup" sys_domain="global" view="Default view">261387ee4f03130030fbff6f9310c703</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-05 10:10:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>flow</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-05 10:10:46</sys_created_on>
+            <sys_id>1923cbee4f03130030fbff6f9310c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data" display_value="Data" name="x_60765_flow_popup_popup" sys_domain="global" view="Default view">261387ee4f03130030fbff6f9310c703</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-05 10:10:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-05 10:10:46</sys_created_on>
+            <sys_id>9923cbee4f03130030fbff6f9310c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Data" display_value="Data" name="x_60765_flow_popup_popup" sys_domain="global" view="Default view">261387ee4f03130030fbff6f9310c703</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-05 10:10:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Data</caption>
+            <header>false</header>
+            <name>x_60765_flow_popup_popup</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-05 10:10:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>261387ee4f03130030fbff6f9310c703</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Flow popups" source="x_60765_flow_popup">00a4b2e24f03130030fbff6f9310c71f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Flow popups">00a4b2e24f03130030fbff6f9310c71f</sys_scope>
+            <sys_update_name>sys_ui_section_261387ee4f03130030fbff6f9310c703</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-05 10:10:35</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
